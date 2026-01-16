@@ -1,4 +1,4 @@
-# olimpiak
+# olimpiak weblap
 ## GitHub proba
-## github proba letöltés
-## github proba feltöltés
+## készitő: borsos balint
+## 9.A csop1
